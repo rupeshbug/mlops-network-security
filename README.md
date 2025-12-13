@@ -5,6 +5,17 @@ The project covers the full lifecycle: **data ingestion → validation → trans
 
 ---
 
+### 🌐 Live Demo
+
+The application is deployed on AWS EC2 and exposed via FastAPI.
+
+🔗 **Live API Docs**:  
+http://51.21.219.154:8080/docs
+
+> Note: The service is hosted on AWS free-tier resources and may be stopped in the future.
+
+---
+
 ### 🚀 Project Overview
 
 This project builds a production-ready ML workflow to classify websites as **phishing** or **legitimate** based on handcrafted URL, domain, and JavaScript-related features.  
